@@ -1,10 +1,9 @@
-import react from 'react';
-import AlignItems from '../AlignItems/AlignItems';
+import React from 'react';
 
 const AlignContent = () => {
     return (
         <div>
-            <h1>align-content</h1>
+            <h1>align-content page</h1>
         </div>
     )
 }
