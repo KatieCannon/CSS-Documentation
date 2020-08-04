@@ -1,0 +1,27 @@
+.menu {
+    width: 300px;
+    height: 100vh;
+    background-color: #0c2d48;
+}
+
+.menu > a {
+    text-decoration: none;
+    color: rgba(255,255,255,.7);
+}
+.menu > h1 {
+    padding: 20px;
+    font-size: 2em;
+    border-bottom: 1px solid #2a4865;;
+    color: rgba(255,255,255,.7);
+}
+
+.menu__property {
+    width: 100% - 40px;
+    border-bottom: 1px solid #2a4865;
+    padding: 20px;
+    font-size: 1em;
+}
+ 
+.active {
+     color: #64b5f6;
+ }
