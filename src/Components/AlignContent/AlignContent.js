@@ -4,7 +4,14 @@ import './AlignContent.css';
 import AlignContentExample from '../AlignContentExample/AlignContentExample';
 
 const alignContentValues = ['center', 'flex-start', 'flex-end', 'space-between', 'space-around', 'stretch'];
-const exampleDescription = {'center':'Puts items around the center.'};
+const exampleDescription = {
+    'center':'Places items around the center.',
+    'flex-start':'Places items from the start. ',
+    'flex-end': 'Places items from end.',
+    'space-between': 'Places items from start to end with even spacing.',
+    'space-around':'Items are spaced with half size space on outside.',
+    'stretch':'Auto sizes items to fit the container.'
+};
 const AlignContent = () => {
     return (
         <div className='alignContent'>
