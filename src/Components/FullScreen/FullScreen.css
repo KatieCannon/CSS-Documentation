@@ -1,3 +1,4 @@
 .fullScreen {
     display: flex;
+    width: 100%;
 }
