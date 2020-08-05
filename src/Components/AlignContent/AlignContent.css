@@ -1,0 +1,17 @@
+.alignContent__about  {
+    padding: 20px;
+}
+
+.alignContent__example {
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid  #64b5f6;
+}
+.alignContent {
+    width: 100%;
+}
+
+.alignContent__description {
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
