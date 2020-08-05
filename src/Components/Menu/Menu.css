@@ -1,5 +1,6 @@
 .menu {
     width: 300px;
+    min-height: 100vh;
     height: 100%;
     background-color: #0c2d48;
 }
