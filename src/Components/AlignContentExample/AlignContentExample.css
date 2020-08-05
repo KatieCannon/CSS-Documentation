@@ -1,6 +1,6 @@
 .alignContentExample__box {
-    width: 150px;
-    height: 50px;
+    width: 30%;
+    height: 30%;
 }
 
 .alignContentExample__box:nth-child(1) {
@@ -26,7 +26,6 @@
     height: 150px; 
     display: flex;
     flex-wrap: wrap;
-    
 }
 .center {
     align-content: center;

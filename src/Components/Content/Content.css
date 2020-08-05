@@ -1,6 +1,10 @@
 .content {
+    position : absolute;
+    top: 0;
+    left:300px;
     padding-left: 20px;
-    width: 80%;
+    width: 80% - 300px;
     display: flex;
     flex-direction: column;
+    overflow: hidden;
 }
