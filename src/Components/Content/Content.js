@@ -2,6 +2,7 @@ import React from 'react';
 import componentMap from '../../utils/componentMap';
 import { useParams } from 'react-router-dom';
 import ContentHeader from '../ContentHeader/ContentHeader';
+import './Content.css';
 
 
 const Content = () => {

@@ -16,7 +16,6 @@
 }
 
 .menu__property {
-    width: 100% - 40px;
     border-bottom: 1px solid #2a4865;
     padding: 20px;
     font-size: 1em;
