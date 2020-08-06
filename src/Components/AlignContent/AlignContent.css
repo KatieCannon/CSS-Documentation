@@ -3,9 +3,7 @@
 }
 
 .alignContent__example {
-    width: 50%;
-    margin: 0 auto;
-    border: 1px solid  #64b5f6;
+    width: 40%;
     margin-bottom: 30px;
     background-color: #cecece;
 }
@@ -16,4 +14,18 @@
 .alignContent__description {
     padding-left: 40px;
     padding-bottom: 20px;
+}
+.alignContent__exampleContainer {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.alignContents__exampleContainerLabels {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: left;
+}
+.alignContents__exampleContainerLabels > p {
+    width: 40%;
+   
 }
